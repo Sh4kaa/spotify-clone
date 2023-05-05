@@ -1,6 +1,6 @@
 # spotify-clone
 
-- Um projeto simples de página clone do spotify
+- Um projeto simples de página clone do spotify </br>
 <a href="https://sh4kaa.github.io/spotify-clone/src/index.html">Spotify</a>
 
 ### Tecnologias utilizadas
