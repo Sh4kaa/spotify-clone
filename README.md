@@ -1,6 +1,7 @@
 # spotify-clone
 
 - Um projeto simples de página clone do spotify
+<a href="https://sh4kaa.github.io/spotify-clone/src/index.html">Spotify</a>
 
 ### Tecnologias utilizadas
 - tailwindcss e HTML5
